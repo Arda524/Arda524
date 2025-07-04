@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Arda524.png" alt="Profile Image" width="200" style="border-radius: 50%;"/>
+  <img src="https://github.com/Arda524.png" alt="Profile Image" width="200"/>
 </p>
 
-<h1 align="center">Hi, I'm Arda524 👋</h1>
+<h1 align="center">Hi, I'm Ardawan M Amin 👋</h1>
 
 <p align="center">
   <i>Turning ideas into interactive apps and websites</i>
@@ -20,11 +20,11 @@
 
 ### 🛠️ Skills & Tools
 
-- **Frontend:** Flutter, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js
 - **Database:** SQLite
 - **Other:** Git, GitHub
-
+  
 ---
 
 ### ✨ Favorite Quote
