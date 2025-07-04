@@ -1,16 +1,47 @@
-## Hi there 👋
+<!-- Profile README for Arda524 -->
+
+<p align="center">
+  <img src="https://via.placeholder.com/200" alt="Profile Image" width="200"/>
+</p>
+
+<h1 align="center">Hi, I'm Arda524 👋</h1>
+
+<p align="center">
+  <i>Turning ideas into interactive apps and websites</i>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 I create front-end apps with **Flutter**  
+- 💻 I build websites using **HTML, CSS, JavaScript, Node.js, Express, and SQLite**
+- 💡 Always learning and experimenting with new technologies
+
+---
+
+### 🛠️ Skills & Tools
+
+- **Frontend:** Flutter, HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Database:** SQLite
+- **Other:** Git, GitHub
+
+---
+
+### ✨ Favorite Quote
+
+> “Rich mind, empty pockets — that’s how empires start.”
+
+---
+
+### 📫 Connect with me
+
+Feel free to reach out via [GitHub](https://github.com/Arda524) or add your other contact links here.
+
+---
 
 <!--
-**Arda524/Arda524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Replace the image link above with your own image/link if desired.
+Happy coding!
 -->
