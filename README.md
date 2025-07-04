@@ -1,7 +1,7 @@
 <!-- Profile README for Arda524 -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="Profile Image" width="200"/>
+  <img src="https://github.com/Arda524.png" alt="Profile Image" width="200"/>
 </p>
 
 <h1 align="center">Hi, I'm Arda524 👋</h1>
