@@ -1,7 +1,7 @@
 <!-- Profile README for Arda524 -->
 
 <p align="center">
-  <img src="https://github.com/Arda524.png" alt="Profile Image" width="200" style="border-radius:%50"/>
+  <img src="https://github.com/Arda524.png" alt="Profile Image" width="200" style="border-radius:50%;"/>
 </p>
 
 <h1 align="center">Hi, I'm Ardawan M Amin 👋</h1>
