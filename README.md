@@ -4,7 +4,7 @@
   <img src="https://github.com/Arda524.png" alt="Profile Image" width="200"/>
 </p>
 
-<h1 align="center">Hi, I'm Arda524 👋</h1>
+<h1 align="center">Hi, I'm Ardawan M Amin 👋</h1>
 
 <p align="center">
   <i>Turning ideas into interactive apps and websites</i>
@@ -31,7 +31,7 @@
 
 ### ✨ Favorite Quote
 
-> “Rich mind, empty pockets — that’s how empires start.”
+> “empty pockets , Rich Mind — that’s how empires start.”
 
 ---
 
