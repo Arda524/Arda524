@@ -29,7 +29,7 @@
 
 ### ✨ Favorite Quote
 
-> “Rich mind, empty pockets — that’s how empires start.”
+> “Empty Pockets , Rich Mind — that’s how empires start.”
 
 ---
 
