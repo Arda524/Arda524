@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ardawan M Amin 👋</h1>
+<h1 align="center">Hi, I'm Ardawan M Amin</h1>
 
 <p align="center">
   <i>Turning ideas into interactive apps and websites</i>
