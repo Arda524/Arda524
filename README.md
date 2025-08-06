@@ -17,7 +17,7 @@
 ### 🛠️ Skills & Tools
 
 - **Frontend:** HTML , CSS , JavaScript , Dart 
-- **Backend:** Node.js , JavaScript + Express
+- **Backend:** Node.js , JavaScript , Express
 - **Database:** mongoDB , Sqlite3 , JSON
 - **Other:** Git , GitHub
   
