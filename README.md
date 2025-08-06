@@ -16,10 +16,10 @@
 
 ### 🛠️ Skills & Tools
 
-- **Frontend:** HTML, CSS, JavaScript + Dart 
-- **Backend:** Node.js + JavaScript
-- **Database:** mongoDB + Sqlite3 + json
-- **Other:** Git, GitHub
+- **Frontend:** HTML , CSS , JavaScript , Dart 
+- **Backend:** Node.js , JavaScript + Express
+- **Database:** mongoDB , Sqlite3 , JSON
+- **Other:** Git , GitHub
   
 ---
 
