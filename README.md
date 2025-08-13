@@ -27,13 +27,6 @@
 
 > “Empty Pockets , Rich Mind — that’s how empires start. Ardawan M Amin”
 
----
-
-### 📫 Contact me
-
-Feel free to reach out via [GitHub](https://github.com/Arda524) or add your other contact links here.
-
----
 
 <!--
 Your image uses a border-radius for a rounded avatar look!
