@@ -11,6 +11,7 @@
 - 🌱 I create front-end apps with **Flutter**  
 - 💻 I build websites using **HTML , CSS , JavaScript , Node.js , Express**
 - 💡 Always learning and experimenting with new technologies
+- 📜 Im Trying To learn React as well
 
 ---
 
