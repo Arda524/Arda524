@@ -69,7 +69,7 @@ I believe in the power of continuous learning and innovation. Every project is a
 
 I'm always interested in discussing new opportunities, collaborating on innovative projects, or sharing knowledge with fellow developers. Feel free to reach out!
 
-- 📧 **Email:** [your.email@example.com](mailto:ardawan524@gmail.com)
+- 📧 **Email:** [ardawan524@gmail.com](mailto:ardawan524@gmail.com)
 - 🌐 **Portfolio:** [View my work](https://ardawanportfolio.netlify.app)
 
 ---
