@@ -1,9 +1,8 @@
 # Ardawan M Amin
 **Full-Stack Developer | Mobile App Developer | Web Solutions Architect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/ardawan-amin)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ardawan-amin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web)](https://ardawanportfolio.netlify.app)
 
 ---
 
@@ -72,8 +71,7 @@ I believe in the power of continuous learning and innovation. Every project is a
 I'm always interested in discussing new opportunities, collaborating on innovative projects, or sharing knowledge with fellow developers. Feel free to reach out!
 
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/ardawan-amin)
-- 🌐 **Portfolio:** [View my work](https://your-portfolio.com)
+- 🌐 **Portfolio:** [View my work](https://ardawanportfolio.netlify.app)
 
 ---
 
