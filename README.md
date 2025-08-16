@@ -53,7 +53,6 @@ Passionate full-stack developer with expertise in modern web technologies and mo
 - **User Experience:** Focus on creating intuitive, responsive interfaces
 - **Scalability:** Building applications that grow with business needs
 - **Continuous Learning:** Staying current with industry trends and technologies
-- **Collaboration:** Strong communication skills for team-based development
 
 ---
 
@@ -70,7 +69,7 @@ I believe in the power of continuous learning and innovation. Every project is a
 
 I'm always interested in discussing new opportunities, collaborating on innovative projects, or sharing knowledge with fellow developers. Feel free to reach out!
 
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 📧 **Email:** [your.email@example.com](mailto:ardawan524@gmail.com)
 - 🌐 **Portfolio:** [View my work](https://ardawanportfolio.netlify.app)
 
 ---
