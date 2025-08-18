@@ -6,12 +6,6 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-
-Passionate full-stack developer with expertise in modern web technologies and mobile application development. Specialized in creating scalable, user-centric applications using cutting-edge frameworks and best practices. Currently expanding expertise in React ecosystem while maintaining proficiency in Flutter and Node.js development.
-
----
-
 ## 🛠️ Technical Expertise
 
 ### **Frontend Development**
@@ -30,11 +24,6 @@ Passionate full-stack developer with expertise in modern web technologies and mo
 - **NoSQL:** MongoDB (Document-based)
 - **SQL:** SQLite3
 - **Data Formats:** JSON, database optimization
-
-### **Development Tools & Workflow**
-- **Version Control:** Git, GitHub
-- **Development Environment:** VS Code, command line tools
-- **Project Management:** Agile methodologies, collaborative development
 
 ---
 
@@ -56,21 +45,12 @@ Passionate full-stack developer with expertise in modern web technologies and mo
 
 ---
 
-## 📈 Professional Philosophy
+## 
 
 > *"Empty Pockets, Rich Mind — that's how empires start."*  
 > — Ardawan M Amin
 
 I believe in the power of continuous learning and innovation. Every project is an opportunity to push boundaries, solve meaningful problems, and create value through technology.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing new opportunities, collaborating on innovative projects, or sharing knowledge with fellow developers. Feel free to reach out!
-
-- 📧 **Email:** [ardawan524@gmail.com](mailto:ardawan524@gmail.com)
-- 🌐 **Portfolio:** [View my work](https://ardawanportfolio.netlify.app)
 
 ---
 
