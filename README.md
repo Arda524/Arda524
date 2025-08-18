@@ -27,33 +27,13 @@
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawan-amin&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardawan-amin&theme=dark&hide_border=true)
-
-</div>
-
-### 🏆 Achievements
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ardawan-amin&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=4)
-
-</div>
-
-### 📈 Activity Overview
-
-- 🔥 **Active Developer**: Consistently contributing to projects
-- 💻 **Multi-Language**: Proficient in JavaScript, Dart, and more
-- 🚀 **Project Builder**: Creating full-stack applications
-- 📱 **Mobile Focus**: Specializing in Flutter development
-
----
+<h3 align="left">📊 GitHub Activity:</h3>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+  </tr>
+</table>
 
 ## 🚀 Current Focus
 
