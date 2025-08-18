@@ -30,13 +30,13 @@
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=dark&locale=en&cache_seconds=1800" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ardawan-amin&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=1800" alt="Top Languages" /></td>
   </tr>
 </table>
 
 ## 🚀 Current Focus
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardawan-amin&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 - 🎯 **React Mastery:** Deepening knowledge in React ecosystem and modern frontend patterns
 - 📱 **Flutter Excellence:** Building sophisticated cross-platform mobile applications
 - 🌐 **Full-Stack Integration:** Creating seamless end-to-end web solutions
@@ -65,3 +65,5 @@ I believe in the power of continuous learning and innovation. Every project is a
 <div align="center">
   <i>Transforming ideas into digital reality, one line of code at a time.</i>
 </div>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ardawan-amin&theme=darkhub&no-frame=true&margin-w=15&cache_seconds=1800" alt="GitHub Trophies" />
