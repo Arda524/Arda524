@@ -27,6 +27,34 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawan-amin&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardawan-amin&theme=radical&hide_border=true)
+
+</div>
+
+### 🏆 GitHub Trophies
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ardawan-amin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+### 📈 Contribution Graph
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardawan-amin&theme=redical&hide_border=true)
+
+</div>
+
+---
+
 ## 🚀 Current Focus
 
 - 🎯 **React Mastery:** Deepening knowledge in React ecosystem and modern frontend patterns
