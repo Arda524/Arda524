@@ -31,27 +31,27 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawan-amin&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawan-amin&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardawan-amin&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ardawan-amin&theme=dark&hide_border=true)
 
 </div>
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ardawan-amin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ardawan-amin&theme=onedark&no-frame=true&no-bg=false&margin-w=4&column=4)
 
 </div>
 
-### 📈 Contribution Graph
-<div align="center">
+### 📈 Activity Overview
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardawan-amin&theme=redical&hide_border=true)
-
-</div>
+- 🔥 **Active Developer**: Consistently contributing to projects
+- 💻 **Multi-Language**: Proficient in JavaScript, Dart, and more
+- 🚀 **Project Builder**: Creating full-stack applications
+- 📱 **Mobile Focus**: Specializing in Flutter development
 
 ---
 
