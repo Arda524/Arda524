@@ -8,9 +8,9 @@
 
 ![Ardawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-dark&hide_border=true)
   
-![Ardawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Ardawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arda524&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawan-amin&layout=compact&theme=vision-friendly-dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 ## 🛠️ Technical Expertise
 
