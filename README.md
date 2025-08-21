@@ -4,30 +4,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ardawan-amin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web)](https://ardawanportfolio.netlify.app)
 
-## 📊 GitHub Stats
-
-![Ardawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-dark&hide_border=true&custom_title=My%20Contribution%20Graph)
-  
-![Ardawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arda524&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
-
-## 💻 Language Usage
-
-To get accurate language statistics, I've configured my repositories to properly recognize all languages:
-
-<!-- Add your language stats with explicit percentages -->
-![JavaScript](https://img.shields.io/badge/JavaScript-45%25-yellow?style=flat-square&logo=javascript)
-![HTML](https://img.shields.io/badge/HTML-20%25-orange?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-15%25-blue?style=flat-square&logo=css3)
-![C#](https://img.shields.io/badge/C%23-10%25-purple?style=flat-square&logo=c-sharp)
-![Python](https://img.shields.io/badge/Python-10%25-green?style=flat-square&logo=python)
-
-*Note: GitHub's automated language detection sometimes underreports web technologies. The percentages above reflect my actual usage across projects.*
+---
 
 ## 🛠️ Technical Expertise
 
 ### **Frontend Development**
-- **Languages:** JavaScript (ES6+), Dart, HTML5, CSS3, JSX
-- **Frameworks:** Flutter, React, Bootstrap, jQuery
+- **Languages:** JavaScript (ES6+), Dart, HTML5, CSS3
+- **Frameworks:** Flutter, React (Learning), Bootstrap, jQuery
 - **Mobile:** Cross-platform app development with Flutter
 - **Styling:** Responsive design, CSS Grid, Flexbox
 
@@ -42,6 +25,8 @@ To get accurate language statistics, I've configured my repositories to properly
 - **SQL:** SQLite3
 - **Data Formats:** JSON, database optimization
 
+---
+
 ## 🚀 Current Focus
 
 - 🎯 **React Mastery:** Deepening knowledge in React ecosystem and modern frontend patterns
@@ -49,12 +34,18 @@ To get accurate language statistics, I've configured my repositories to properly
 - 🌐 **Full-Stack Integration:** Creating seamless end-to-end web solutions
 - 🔧 **Best Practices:** Implementing clean code principles and scalable architectures
 
+---
+
 ## 💼 What I Bring to the Table
 
 - **Problem-Solving:** Analytical approach to complex technical challenges
 - **User Experience:** Focus on creating intuitive, responsive interfaces
 - **Scalability:** Building applications that grow with business needs
 - **Continuous Learning:** Staying current with industry trends and technologies
+
+---
+
+## 
 
 > *"Empty Pockets, Rich Mind — that's how empires start."*  
 > — Ardawan M Amin
