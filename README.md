@@ -7,6 +7,24 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)][instagram-url]
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white)][tiktok-url]
 
+## 📊 GitHub Activity & Languages
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&include_all_commits=true&count_private=true" height="160" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ardawan-amin" height="160" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardawan-amin&layout=compact&langs_count=30" height="160" />
+  </a>
+  <br/>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardawan-amin&theme=github-compact&hide_border=false&custom_title=Contribution%20Graph" width="100%" />
+  </a>
+</div>
+
 ---
 
 ## 🛠️ Technical Expertise
