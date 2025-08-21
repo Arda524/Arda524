@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)][instagram-url]
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white)][tiktok-url]
 
-## 📊 GitHub Activity & Languages
+## 📊 GitHub Activity 
 
 <div align="center">
   
