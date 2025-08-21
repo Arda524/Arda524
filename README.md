@@ -12,7 +12,7 @@
 <div align="center">
   
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Arda524" width="100%" />
+    <img src="https://streak-stats.demolab.com?user=Arda524" height="150px" width="100%" />
   </a>
   
   <br/>
