@@ -11,11 +11,6 @@
 
 <div align="center">
   
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Arda524" height="150px" width="100%" />
-  </a>
-  
-  <br/>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-compact&hide_border=false&custom_title=Contribution%20Graph" width="100%" />
   </a>
