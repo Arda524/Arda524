@@ -6,7 +6,7 @@
 
 ## 📊 GitHub Stats
 
-![Ardawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardawan-amin&theme=github-dark&hide_border=true)
+![Ardawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-dark&hide_border=true)
   
 ![Ardawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
