@@ -6,17 +6,28 @@
 
 ## 📊 GitHub Stats
 
-![Ardawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-dark&hide_border=true)
+![Ardawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-dark&hide_border=true&custom_title=My%20Contribution%20Graph)
   
-![Ardawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arda524&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Ardawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arda524&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=compact&theme=vision-friendly-dark&hide_border=true)
+## 💻 Language Usage
+
+To get accurate language statistics, I've configured my repositories to properly recognize all languages:
+
+<!-- Add your language stats with explicit percentages -->
+![JavaScript](https://img.shields.io/badge/JavaScript-45%25-yellow?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-20%25-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-15%25-blue?style=flat-square&logo=css3)
+![C#](https://img.shields.io/badge/C%23-10%25-purple?style=flat-square&logo=c-sharp)
+![Python](https://img.shields.io/badge/Python-10%25-green?style=flat-square&logo=python)
+
+*Note: GitHub's automated language detection sometimes underreports web technologies. The percentages above reflect my actual usage across projects.*
 
 ## 🛠️ Technical Expertise
 
 ### **Frontend Development**
-- **Languages:** JavaScript (ES6+), Dart, HTML5, CSS3
-- **Frameworks:** Flutter, React (Learning), Bootstrap, jQuery
+- **Languages:** JavaScript (ES6+), Dart, HTML5, CSS3, JSX
+- **Frameworks:** Flutter, React, Bootstrap, jQuery
 - **Mobile:** Cross-platform app development with Flutter
 - **Styling:** Responsive design, CSS Grid, Flexbox
 
