@@ -5,7 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=flat-square&logo=web&logoColor=f8fafc&labelColor=1e293b)](https://ardawanportfolio.netlify.app)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=f8fafc&labelColor=1e293b)][facebook-url]
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=f8fafc&labelColor=1e293b)][instagram-url]
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=f8fafc&labelColor=1e293b)][tiktok-url]
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=f8fafc&labelColor=1e293b)][https://www.tiktok.com/@ardawan_l]
 
 ## 📊 GitHub Activity 
 
