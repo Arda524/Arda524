@@ -58,7 +58,7 @@
 - 🌐 **Full-Stack Integration:** Creating seamless end-to-end web solutions
 - 🔧 **Best Practices:** Implementing clean code principles and scalable architectures
 
----
+--- 
 
 ## 💼 What I Bring to the Table
 
