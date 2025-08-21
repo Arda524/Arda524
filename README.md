@@ -1,7 +1,7 @@
 # Ardawan M Amin
 **Full-Stack Developer | Mobile App Developer | Web Solutions Architect**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ardawan-amin)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/Arda524)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web)](https://ardawanportfolio.netlify.app)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)][facebook-url]
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)][instagram-url]
@@ -21,7 +21,7 @@
   </a>
   <br/>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ardawan-amin&theme=github-compact&hide_border=false&custom_title=Contribution%20Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-compact&hide_border=false&custom_title=Contribution%20Graph" width="100%" />
   </a>
 </div>
 
