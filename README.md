@@ -4,7 +4,13 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ardawan-amin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web)](https://ardawanportfolio.netlify.app)
 
----
+## 📊 GitHub Stats
+
+![Ardawan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ardawan-amin&theme=github-dark&hide_border=true)
+  
+![Ardawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ardawan-amin&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ardawan-amin&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
 ## 🛠️ Technical Expertise
 
@@ -25,8 +31,6 @@
 - **SQL:** SQLite3
 - **Data Formats:** JSON, database optimization
 
----
-
 ## 🚀 Current Focus
 
 - 🎯 **React Mastery:** Deepening knowledge in React ecosystem and modern frontend patterns
@@ -34,18 +38,12 @@
 - 🌐 **Full-Stack Integration:** Creating seamless end-to-end web solutions
 - 🔧 **Best Practices:** Implementing clean code principles and scalable architectures
 
----
-
 ## 💼 What I Bring to the Table
 
 - **Problem-Solving:** Analytical approach to complex technical challenges
 - **User Experience:** Focus on creating intuitive, responsive interfaces
 - **Scalability:** Building applications that grow with business needs
 - **Continuous Learning:** Staying current with industry trends and technologies
-
----
-
-## 
 
 > *"Empty Pockets, Rich Mind — that's how empires start."*  
 > — Ardawan M Amin
