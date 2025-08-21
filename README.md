@@ -3,6 +3,9 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/ardawan-amin)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=web)](https://ardawanportfolio.netlify.app)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white)][facebook-url]
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)][instagram-url]
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=white)][tiktok-url]
 
 ---
 
@@ -57,3 +60,7 @@ I believe in the power of continuous learning and innovation. Every project is a
 <div align="center">
   <i>Transforming ideas into digital reality, one line of code at a time.</i>
 </div>
+
+[facebook-url]: https://facebook.com/your-username
+[instagram-url]: https://instagram.com/your-username
+[tiktok-url]: https://www.tiktok.com/@your-username
