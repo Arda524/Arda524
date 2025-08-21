@@ -16,9 +16,7 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Arda524" height="160" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=compact&langs_count=30" height="160" />
-  </a>
+  
   <br/>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&theme=github-compact&hide_border=false&custom_title=Contribution%20Graph" width="100%" />
