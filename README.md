@@ -24,6 +24,19 @@
 
 ---
 
+## 📈 Language Usage
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=compact&title_color=6366f1&text_color=f8fafc&icon_color=10b981&bg_color=0f172a&border_color=1e293b&langs_count=8" height="180" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=donut&title_color=6366f1&text_color=f8fafc&icon_color=10b981&bg_color=0f172a&border_color=1e293b&langs_count=6" height="180" />
+  </a>
+</div>
+
+---
+
 ## 🛠️ Technical Expertise
 
 ### **Frontend Development**
