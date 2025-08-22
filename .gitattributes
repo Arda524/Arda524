@@ -1,6 +1,0 @@
-*.html linguist-language=JavaScript
-*.js linguist-language=JavaScript
-*.jsx linguist-language=JavaScript
-*.ts linguist-language=TypeScript
-*.py linguist-language=Python
-*.cs linguist-language=C#
