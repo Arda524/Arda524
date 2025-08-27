@@ -71,7 +71,7 @@
 
 ## 💼 What I Bring to the Table
 
-<div align="center">
+<div align="left">
 
 | 🛠️ **Technical Skills** | 💡 **Problem-Solving** | 👥 **Collaboration** | 📈 **Growth Mindset** |
 | :--- | :--- | :--- | :--- |
@@ -85,7 +85,6 @@
 
 > *"Empty Pockets, Rich Mind — that's how empires start."*  
 > — Ardawan M Amin
-
 
 ---
 
