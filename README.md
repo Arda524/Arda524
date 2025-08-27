@@ -57,7 +57,7 @@
 
 ## 🚀 Current Focus
 
-<div align="center">
+<div align="left">
 
 | 🎯 **React Mastery** | 📱 **Flutter Excellence** | 🌐 **Full-Stack Integration** | 🔧 **Best Practices** |
 | :--- | :--- | :--- | :--- |
