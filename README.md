@@ -68,7 +68,7 @@
 
 <div align="left">
 
-| 🛠️ **Technical Skills** | 💡 **Problem-Solving** | 👥 **Collaboration** | 📈 **Growth Mindset** |
+| 🛠️ **Technical Skills**  |  💡 **Problem-Solving**  |  👥 **Collaboration**  |  📈 **Growth Mindset**  |
 | :--- | :--- | :--- | :--- |
 | Modern frameworks | Analytical approach | Team communication | Continuous learning |
 | Responsive design | Creative solutions | Agile methodology | Adapting to trends |
