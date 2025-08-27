@@ -11,14 +11,14 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Arda524&show_icons=true&include_all_commits=true&count_private=true&title_color=6366f1&text_color=f8fafc&icon_color=10b981&bg_color=0f172a&border_color=1e293b&hide_border=true" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Arda524&show_icons=true&include_all_commits=true&count_private=true&title_color=6366f1&text_color=f8fafc&icon_color=10b981&bg_color=0f172a&border_color=1e293b&hide_border=true" height="140" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=compact&title_color=6366f1&text_color=f8fafc&bg_color=0f172a&border_color=1e293b&hide_border=true" height="160" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=compact&title_color=6366f1&text_color=f8fafc&bg_color=0f172a&border_color=1e293b&hide_border=true" height="140" />
   </a>
     
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Arda524&theme=dark&background=0f172a&ring=6366f1&fire=ef4444&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=10b981&dates=818cf8&hide_border=true&border=1e293b" height="160" />
+    <img src="https://streak-stats.demolab.com?user=Arda524&theme=dark&background=0f172a&ring=6366f1&fire=ef4444&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=10b981&dates=818cf8&hide_border=true&border=1e293b" height="140" />
   </a>
   
   <br/>
