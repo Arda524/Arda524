@@ -24,7 +24,7 @@
   <br/>
   
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&bg_color=0f172a&color=f8fafc&line=6366f1&point=10b981&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&bg_color=0f172a&color=f8fafc&line=6366f1&point=10b981&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
   </a>
 </div>
 
