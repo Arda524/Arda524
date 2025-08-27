@@ -76,8 +76,8 @@
 
 </div>
 
-> *"Empty Pockets, Rich Mind — that's how empires start."*  
-> — Ardawan M Amin
+ *"Empty Pockets, Rich Mind — that's how empires start."*  
+ — Ardawan M Amin
 
 [facebook-url]: https://facebook.com/Ardawan.511
 [instagram-url]: https://instagram.com/ardawan.511
