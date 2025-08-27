@@ -72,33 +72,6 @@
 - **Continuous Learning:** Staying current with industry trends and technologies
 
 ---
-## 🚀 Current Focus
-
-<div align="center">
-
-| 🎯 **React Mastery** | 📱 **Flutter Excellence** | 🌐 **Full-Stack Integration** | 🔧 **Best Practices** |
-| :--- | :--- | :--- | :--- |
-| Advanced React patterns | Cross-platform development | End-to-end solutions | Clean code principles |
-| State management | Native performance | API design & integration | Scalable architecture |
-| Next.js framework | Firebase integration | Database optimization | Testing & DevOps |
-
-</div>
-
---- 
-
-## 💼 What I Bring to the Table
-
-<div align="center">
-
-| 🛠️ **Technical Skills** | 💡 **Problem-Solving** | 👥 **Collaboration** | 📈 **Growth Mindset** |
-| :--- | :--- | :--- | :--- |
-| Modern frameworks | Analytical approach | Team communication | Continuous learning |
-| Responsive design | Creative solutions | Agile methodology | Adapting to trends |
-| Performance optimization | Efficient debugging | Code reviews | Skill development |
-
-</div>
-
-## 
 
 > *"Empty Pockets, Rich Mind — that's how empires start."*  
 > — Ardawan M Amin
