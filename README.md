@@ -83,7 +83,6 @@
 > *"Empty Pockets, Rich Mind — that's how empires start."*  
 > — Ardawan M Amin
 
-I believe in the power of continuous learning and innovation. Every project is an opportunity to push boundaries, solve meaningful problems, and create value through technology.
 
 ---
 
