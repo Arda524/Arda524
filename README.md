@@ -1,12 +1,15 @@
 # Ardawan M Amin
 **Full-Stack Developer | Mobile App Developer | Web Solutions Architect**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-6366f1?style=flat-square&logo=github&logoColor=f8fafc&labelColor=1e293b)](https://github.com/Arda524)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=flat-square&logo=web&logoColor=f8fafc&labelColor=1e293b)](https://ardawanportfolio.netlify.app)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=f8fafc&labelColor=1e293b)][facebook-url]
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=f8fafc&labelColor=1e293b)][instagram-url]
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=f8fafc&labelColor=1e293b)][tiktok-url]
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-6366f1?style=for-the-badge&logo=github&logoColor=f8fafc&labelColor=1e293b)](https://github.com/Arda524)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=for-the-badge&logo=web&logoColor=f8fafc&labelColor=1e293b)](https://ardawanportfolio.netlify.app)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=f8fafc&labelColor=1e293b)](https://facebook.com/Ardawan.511)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=f8fafc&labelColor=1e293b)](https://instagram.com/ardawan.511)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=f8fafc&labelColor=1e293b)](https://www.tiktok.com/@ardawan_)
+
+</div>
 ## 📊 GitHub Activity 
 
 <div align="center">
