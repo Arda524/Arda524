@@ -64,8 +64,6 @@
 
 </div>
 
---- 
-
 ## 💼 What I Bring to the Table
 
 <div align="left">
