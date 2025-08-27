@@ -23,7 +23,6 @@
   </a>
 </div>
 
----
 ## 🛠️ Technical Expertise
 
 ### **Frontend Development**
@@ -53,8 +52,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Contabo](https://img.shields.io/badge/Contabo-003580?style=flat-square&logo=contabo&logoColor=white)
 
----
-
 ## 🚀 Current Focus
 
 <div align="left">
@@ -81,12 +78,8 @@
 
 </div>
 
----
-
 > *"Empty Pockets, Rich Mind — that's how empires start."*  
 > — Ardawan M Amin
-
----
 
 [facebook-url]: https://facebook.com/Ardawan.511
 [instagram-url]: https://instagram.com/ardawan.511
