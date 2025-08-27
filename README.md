@@ -25,7 +25,7 @@
   
   <!-- Streak Stats - Fixed URL -->
   <a href="https://git.io/streak-stats">
-    <img width="90%" src="https://streak-stats.demolab.com?user=Arda524&theme=dark&background=0f172a&ring=6366f1&fire=ef4444&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=10b981&dates=818cf8&hide_border=true&border=1e293b" alt="GitHub Streak" />
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Arda524&theme=dark&background=0f172a&ring=6366f1&fire=ef4444&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=10b981&dates=818cf8&hide_border=true&border=1e293b" alt="GitHub Streak" />
   </a>
   
   <!-- Activity Graph -->
