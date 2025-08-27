@@ -87,10 +87,6 @@ I believe in the power of continuous learning and innovation. Every project is a
 
 ---
 
-<div align="center">
-  <i>Transforming ideas into digital reality, one line of code at a time.</i>
-</div>
-
 [facebook-url]: https://facebook.com/Ardawan.511
 [instagram-url]: https://instagram.com/ardawan.511
 [tiktok-url]: https://www.tiktok.com/@ardawan_
