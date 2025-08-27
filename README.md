@@ -9,12 +9,6 @@
 
 ## 📊 GitHub Activity 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda524&layout=compact&title_color=6366f1&text_color=f8fafc&bg_color=0f172a&border_color=1e293b&hide_border=true" height="180" />
-  </a>
-  <br/>
-  
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&bg_color=0f172a&color=f8fafc&line=6366f1&point=10b981&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
   </a>
