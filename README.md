@@ -38,7 +38,7 @@
 ![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=oauth&logoColor=white)
 ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
 
-### **Deployment & Hosting**
+### **Deployment & Hosting** 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![Contabo](https://img.shields.io/badge/Contabo-003580?style=flat-square&logo=contabo&logoColor=white)
