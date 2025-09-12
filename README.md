@@ -14,7 +14,7 @@
   </a>
 </div> 
 
-## 🛠️ Technical Expertise
+## 🛠️ Technical Expertise 
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
