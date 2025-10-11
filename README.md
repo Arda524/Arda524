@@ -1,4 +1,4 @@
-# Ardawan M Amin   
+# Ardawan M Amin
 **Full-Stack Developer | Mobile App Developer | Web Solutions Architect**    
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6366f1?style=flat-square&logo=github&logoColor=f8fafc&labelColor=1e293b)](https://github.com/Arda524)
