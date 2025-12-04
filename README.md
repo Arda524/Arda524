@@ -6,10 +6,75 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=f8fafc&labelColor=1e293b)][instagram-url]
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=flat-square&logo=tiktok&logoColor=f8fafc&labelColor=1e293b)][tiktok-url]
 
-## 📊 GitHub Activity 
+## ðŸ“Š GitHub Activity 
 
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&bg_color=0f172a&color=f8fafc&line=6366f1&point=10b981&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+  </a>
+</div> 
+
+## ðŸ› ï¸ Technical Expertise 
+
+### **Frontend Development**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=json&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-000000?style=flat-square&logo=oauth&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=flat-square&logo=auth0&logoColor=white)
+
+### **Deployment & Hosting**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+## ðŸš€ Current Focus
+
+<div align="left">
+
+| ðŸŽ¯ **Next.js Mastery** | ðŸ“± **Flutter Excellence** | ðŸŒ **Full-Stack Integration** | ðŸ”§ **Best Practices** |
+| :--- | :--- | :--- | :--- |
+| Server-side rendering | Cross-platform development | End-to-end solutions | Clean code principles |
+| App Router & RSC | Native performance | API Routes & Edge | Scalable architecture |
+| Performance optimization | Firebase integration | Database optimization | Testing & DevOps |
+
+</div>
+
+## ðŸ’¼ What I Bring to the Table
+
+<div align="left">
+
+| ðŸ› ï¸ **Technical Skills**  |  ðŸ’¡ **Problem-Solving**  |  ðŸ‘¥ **Collaboration**  |  ðŸ“ˆ **Growth Mindset**  |
+| :--- | :--- | :--- | :--- |
+| Modern frameworks | Analytical approach | Team communication | Continuous learning |
+| Responsive design | Creative solutions | Agile methodology | Adapting to trends |
+| Performance optimization | Efficient debugging | Code reviews | Skill development |
+
+</div>
+
+ *"Empty Pockets, Rich Mind â€” that's how empires start."*  
+ â€” Ardawan M Amin
+
+[facebook-url]: https://facebook.com/Ardawan.511
+[instagram-url]: https://instagram.com/ardawan.511
+[tiktok-url]: https://www.tiktok.com/@ardawan_    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda524&bg_color=0f172a&color=f8fafc&line=6366f1&point=10b981&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
   </a>
 </div> 
 
