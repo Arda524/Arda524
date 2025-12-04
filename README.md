@@ -50,28 +50,3 @@
 <div align="left">
 
 | 🎯 **Next.js Mastery** | 📱 **Flutter Excellence** | 🌐 **Full-Stack Integration** | 🔧 **Best Practices** |
-| :--- | :--- | :--- | :--- |
-| Server-side rendering | Cross-platform development | End-to-end solutions | Clean code principles |
-| App Router & RSC | Native performance | API Routes & Edge | Scalable architecture |
-| Performance optimization | Firebase integration | Database optimization | Testing & DevOps |
-
-</div>
-
-## 💼 What I Bring to the Table
-
-<div align="left">
-
-| 🛠️ **Technical Skills**  |  💡 **Problem-Solving**  |  👥 **Collaboration**  |  📈 **Growth Mindset**  |
-| :--- | :--- | :--- | :--- |
-| Modern frameworks | Analytical approach | Team communication | Continuous learning |
-| Responsive design | Creative solutions | Agile methodology | Adapting to trends |
-| Performance optimization | Efficient debugging | Code reviews | Skill development |
-
-</div>
-
- *"Empty Pockets, Rich Mind — that's how empires start."*  
- — Ardawan M Amin
-
-[facebook-url]: https://facebook.com/Ardawan.511
-[instagram-url]: https://instagram.com/ardawan.511
-[tiktok-url]: https://www.tiktok.com/@ardawan_
