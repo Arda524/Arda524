@@ -1,5 +1,5 @@
 # Ardawan M Amin  
-**Full-Stack Developer | Mobile App Developer | Web Solutions Architect**    
+**Full-Stack Developer | Mobile App Developer | Web Solutions Architect**      
        
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-6366f1?style=flat-square&logo=github&logoColor=f8fafc&labelColor=1e293b)](https://github.com/Arda524)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10b981?style=flat-square&logo=web&logoColor=f8fafc&labelColor=1e293b)](https://ardawan.netlify.app)
