@@ -15,6 +15,9 @@
 
 ## 🛠️ Technical Expertise 
 
+### Full-Stack Frameworks
+![Next.js Full-Stack](https://img.shields.io/badge/Next.js_Full--Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
 ### **Frontend Development**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -25,11 +28,11 @@
 
 ### **Backend Development**
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-### Full-Stack Frameworks
-![Next.js Full-Stack](https://img.shields.io/badge/Next.js_Full--Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### **Deployment & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
