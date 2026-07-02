@@ -28,6 +28,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+### Full-Stack Frameworks
+![Next.js Full-Stack](https://img.shields.io/badge/Next.js_Full--Stack-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
 ### **Deployment & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
