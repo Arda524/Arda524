@@ -32,6 +32,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Ubuntu VPS](https://img.shields.io/badge/Ubuntu_VPS-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## 🚀 Current Focus
 
