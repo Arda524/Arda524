@@ -43,11 +43,11 @@
 
 <div align="left">
 
-| 🎯 **Next.js Mastery** | 📱 **Flutter Excellence** | 🌐 **Full-Stack Integration** | 🔧 **Best Practices** |
+| 🎯 **Next.js Mastery** | 📱 **Flutter Development** | 🌐 **Full-Stack Apps** | 🔧 **Best Practices** |
 | :--- | :--- | :--- | :--- |
-| Server-side rendering | Cross-platform development | End-to-end solutions | Clean code principles |
-| App Router & RSC | Native performance | API Routes & Edge | Scalable architecture |
-| Performance optimization | Firebase integration | Database optimization | Testing & DevOps |
+| App Router & RSC | Cross-platform apps | End-to-end solutions | Clean code principles |
+| Server & Client Components | Firebase integration | API Routes & Backend | Scalable architecture |
+| Performance optimization | Native mobile experience | Database & Auth | Modern workflows |
 
 </div>
 
@@ -57,9 +57,9 @@
 
 | 🛠️ **Technical Skills**  |  💡 **Problem-Solving**  |  👥 **Collaboration**  |  📈 **Growth Mindset**  |
 | :--- | :--- | :--- | :--- |
-| Modern frameworks | Analytical approach | Team communication | Continuous learning |
-| Responsive design | Creative solutions | Agile methodology | Adapting to trends |
-| Performance optimization | Efficient debugging | Code reviews | Skill development |
+| Next.js full-stack apps | Analytical approach | Team communication | Continuous learning |
+| Responsive web & mobile | Creative solutions | Agile methodology | Adapting to trends |
+| API & database design | Efficient debugging | Code reviews | Skill development |
 
 </div>
 
